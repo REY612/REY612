@@ -1,2 +1,2 @@
-<h1 style="text-align:center">Hola, mi nombre es Rey López</h1> 
+<h1 style="font-size:200px">Hola, mi nombre es Rey López</h1> 
 
