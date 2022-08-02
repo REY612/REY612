@@ -14,8 +14,8 @@
 <img src="https://i.postimg.cc/BnhK7wrf/logo-desarrollador.jpg)](https://postimg.cc/RWHhNGCg" alt="">
  
 <ul>
-  <li>X</li>
-  <li>P</li>
+  <li>Desarrollador Front-End</li>
+  <li>Estudiante Universitario ITM</li>
 </ul>
 
 </body>
